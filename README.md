@@ -1,2 +1,2 @@
-# Tasarımın benzemesi için internetten boşluk karakterini bulup uyguladım ve google iconunu ortalamak için beyaz bir resim kullandım. Benim ekranımdaki görüntü bu şekilde farklı ekran boylarında değişebilir diye ekran görüntüsünü bırakıyorum.
+# Tasarımın benzemesi için internetten boşluk karakterini bulup uyguladım. Benim ekranımdaki görüntü bu şekilde farklı ekran boylarında değişebilir diye ekran görüntüsünü bırakıyorum.
 ![a](img/Adsız.png)
